@@ -1,0 +1,1 @@
+Record webpage animation with selenium
